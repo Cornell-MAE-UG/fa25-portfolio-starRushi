@@ -20,10 +20,8 @@ I worked on: CAD lofting and twist implementation in Fusion 360, setting chord a
 
 ## Figures
 **Figure 1.** Power vs RPM curves at multiple wind speeds.  
-![Power vs RPM](assets/power_vs_rpm.png)
+![Power vs RPM](assets/GRAPH.png)
 
 **Figure 2.** CAD model of the blade (iteration 2).  
-![CAD model](assets/cad_blade.png)
+![CAD model](assets/BLADE.png)
 
-**Figure 3.** Wind tunnel test setup / printed blades.  
-![Test photo](assets/test_photo.png)
