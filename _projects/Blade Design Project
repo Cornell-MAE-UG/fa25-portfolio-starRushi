@@ -1,0 +1,29 @@
+---
+layout: project
+title: "Blade Design Project"
+permalink: /blade-design/
+---
+
+# Blade Design Project
+
+## Project overview
+We designed, fabricated, and tested small-scale wind turbine blades for a controlled wind tunnel experiment in MAE 4272. The goal was to maximize expected power output weighted by a Weibull wind-speed distribution (c = 5, k = 5), while meeting constraints on size, RPM, torque loading, and 3D-printed resin strength.
+
+## Design process
+Our team used a physics-based workflow combining aerodynamic estimates with structural checks to set airfoil choice, chord taper, and twist. We selected a NACA 4412 airfoil for favorable low-to-moderate Reynolds-number behavior and iterated the CAD after the first test revealed major real-world losses. The second iteration corrected airfoil implementation and twist distribution, added intermediate loft waypoints for better geometric fidelity, and strengthened the root interface to improve attachment robustness.
+
+## Testing summary
+We tested the blades in a wind tunnel using a standardized hub and a magnetic particle brake to vary load. At each wind speed, we recorded rotational speed, torque, and power and generated power vs RPM curves. We also computed power coefficient (Cp) to compare measured performance against theoretical expectations and to diagnose the causes of efficiency loss.
+
+## My contribution
+I worked on: CAD lofting and twist implementation in Fusion 360, setting chord and twist stations, generating theoretical curves, organizing the final report figures.
+
+## Figures
+**Figure 1.** Power vs RPM curves at multiple wind speeds.  
+![Power vs RPM](assets/power_vs_rpm.png)
+
+**Figure 2.** CAD model of the blade (iteration 2).  
+![CAD model](assets/cad_blade.png)
+
+**Figure 3.** Wind tunnel test setup / printed blades.  
+![Test photo](assets/test_photo.png)
