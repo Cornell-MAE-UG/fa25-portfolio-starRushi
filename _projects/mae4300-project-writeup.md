@@ -1,4 +1,3 @@
-
 ---
 layout: project
 title: "MAE 4300 Project Writeup"
