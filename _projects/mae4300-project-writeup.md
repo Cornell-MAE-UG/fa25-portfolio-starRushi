@@ -1,8 +1,10 @@
 # MAE4300 Project Writeup
 <!-- One-line pitch: what it is + who it's for + why it matters -->
 **rp548 Rushika Prasad's MAE4300 Project Writeup on the Boeing 747 Plane Crash.**
-
-
+---
+layout: project
+title: "MAE 4300 Project Writeup"
+permalink: /projects/mae4300/
 ---
 
 ## Project Summary
