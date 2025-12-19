@@ -15,7 +15,7 @@ Over the course of this semster, in MAE 4300, we have analyzed the two infamous 
 
 ## Write Up
 
-# Activity 6: Boeing 737 MAX Case Study
+## Activity 6: Boeing 737 MAX Case Study
 **Course:** Engineering Ethics  
 **Focus:** Identifying ethical issues and narrowing to the most consequential issues
 
