@@ -5,23 +5,22 @@ permalink: /projects/mae4300/
 ---
 
 # MAE4300 Project Writeup
-**rp548 Rushika Prasad's MAE4300 Project Writeup on the Boeing 747 Plane Crash.**
+**rp548 Rushika Prasad's MAE4300 Project Writeup on the Boeing 737 Plane Crash.**
 
 ## Project Summary
 Over the course of this semster, in MAE 4300, we have analyzed the two infamous Boeing 747 plane crashes to understand how and why it happened, the factors at play from several different frame works, and how to prevent such disasters. 
 
 ---
 
-## Write Up
+## Boeing 737 MAX Case Study
+**Course:** Engineers and Society
 
-## Activity 6: Boeing 737 MAX Case Study
-**Course:** Engineering Ethics  
-**Focus:** Identifying ethical issues and narrowing to the most consequential issues
+**Focus:** Deeply analyzing the Boeing 737 Max crashes in 2019 and 2020. 
 
 ---
 
-## Prompt 1: Identifying Ethical Issues (10 Questions)
-Ethics concerns actions that can seriously impact the lives of others, directly or indirectly. Below are ten ethical issues posed as questions. The set spans organizational vs. individual responsibility, technical vs. communication failures, and immediate vs. long-term consequences.
+## Identifying Ethical Issues
+Ethics concerns actions that can seriously impact the lives of others, directly or indirectly. Below are ten ethical issues posed as questions. The set spans organizational vs. individual responsibility, technical vs. communication failures, and immediate vs. long-term consequences. Here are ten questions that I devleloped in the course. 
 
 1. **Regulatory independence:** Should there be greater separation between central regulatory agencies and the companies they monitor?  
    - ASME: Integrity, public welfare, avoiding conflicts of interest
@@ -55,8 +54,7 @@ Ethics concerns actions that can seriously impact the lives of others, directly 
 
 ---
 
-## Prompt 2: Narrowing the Focus (5 Issues + Justification)
-Goal: prioritize depth over breadth by selecting the five most decisive ethical issues and explaining why they matter more than the remaining five in this case.
+## We then continued to narrow our focus.
 
 ### 1) Regulator and Company Separation
 **Why it is critically important:**  
@@ -113,5 +111,7 @@ This is the clearest preventable pivot point. Even if earlier decisions failed, 
 
 ---
 
-## Notes on Scope
-This activity focuses on identifying ethical issues and selecting the most consequential five for deeper analysis. It emphasizes systemic causes (oversight structure and transparency) alongside accident-proximate causes (hidden software behavior and post-incident grounding decisions).
+## Continued Anaylsis
+From here, we went on to think of ideal and actual solutions based on constraints. 
+
+Some of the most interesting actual solutions that were generated during this activity were those that surived both practical and ideal constraints. For example, the solution to tax companies that don't subject themselves to certain extra safety checks works well as a nuanced idea that could surive constraints by not being absolute. When thinking of a solution, it's easy to want to jump to absolutes, like complete rules that just force people to act how you want. In reality, what you need is to think of incentives. What incentivised the actions that led to the crash in the first place? And, how do we create counter incentives? 
